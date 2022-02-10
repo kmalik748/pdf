@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Florens Flourished';
+    src: url('FlorensFlourished.eot');
+    src: url('FlorensFlourished.eot?#iefix') format('embedded-opentype'),
+        url('FlorensFlourished.woff2') format('woff2'),
+        url('FlorensFlourished.woff') format('woff'),
+        url('FlorensFlourished.ttf') format('truetype'),
+        url('FlorensFlourished.svg#FlorensFlourished') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
